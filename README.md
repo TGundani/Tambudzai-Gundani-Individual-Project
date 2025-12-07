@@ -21,10 +21,12 @@ The system demonstrates how transparent NLP methods can make complex regulatory 
   Retrieval-Augmented Generation (**RAG**) pipeline  
 - **Explainability tools** – SHAP / LIME + simple autoencoder for topic clusters  
 
-### Goal: 
-Make complex regulatory research more **searchable, interpretable, and interactive** for policymakers,  
-students, journalists, and the public by answering natural-language questions with **concise, cited,  
-evidence-linked responses** from RSC publications.
+### Goal:
+
+Make complex regulatory research more searchable, interpretable, and interactive for policymakers,  
+students, journalists, and the public by answering natural-language questions with concise, cited,  
+evidence-linked responses from RSC publications.
+
 ---
 ## 2. Repository Structure
 
@@ -75,4 +77,5 @@ FinalProject_RegPolicyBot/
 ├── reports/                      # Final report & presentation
     ├── RegPolicyBot_Final_Report.pdf
     └── RegPolicyBot_Presentation_Slides.pptx
+
 ```
